@@ -113,4 +113,3 @@ After identifying each stakeholder in this model, you'll list each stage in the 
 - Wireframes - Prototypes and mockups
 - Schedule and Deadlines - Delivery plan and roadmap
 
-# What is a Business Requirements Document (BRD)?
