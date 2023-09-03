@@ -31,18 +31,18 @@ Basic Process Overview
 
 ## Gap Analysis
 
-A technology gap analysis is the process of comparing current tools and technology against the desired state and then building a plan for how you will bridge the gap. A gap analysis goes beyond identifying the "what" and "when" of IT systems, infrastructure, and architecture.
+A technology gap analysis is comparing current tools and technology against the desired state and then building a plan for how you will bridge the gap. A gap analysis goes beyond identifying the "what" and "when" of IT systems, infrastructure, and architecture.
 
 ![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/3a97e091-1334-4608-8fcc-4a3389c28057)
 
 **As Is – To Be Process**
 
-- **As Is** - The as-is state of a process is the “now” state. It's how the process operates before you make any changes or improvements.
+- **As Is** - The as-is state of a process is the "now" state. It's how the process operates before you make any changes or improvements.
 - **To Be** - The to-be process, on the other hand, is the future state. It is after you have taken on the identified action points and implemented the changes.
 
 **Example**
 
-| Area Under Consideration                | We are investigating customer satisfaction with faulty goods returned within warranty.  |      We are not considering outside of warranty, nor the satisfaction of customers at the point of sale.                                       |
+| Area Under Consideration                | We investigate customer satisfaction with faulty goods returned within warranty.  |      We are not considering outside of warranty nor the satisfaction of customers at the point of sale.                                       |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
 | Current State                           | Desired State                                                                                                                                                                            | Action Steps                                |
 | 1. Customer Satisfaction Rate = unknown | 1. Customer Satisfaction Rate = 99%                                                                                                                                                      | 1.1 Benchmark current Customer Satisfaction |
@@ -52,6 +52,8 @@ A technology gap analysis is the process of comparing current tools and technolo
 
 
 ## Stakeholder Management
+
+**Stakeholder** - An **individual, group**, or **organization** who may **affect, be affected by**, or perceive itself **to be affected** by a project's decision, activity, or outcome.
 
 # Overview of Case Study
 
