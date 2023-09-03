@@ -1,1 +1,1 @@
-# IT-Business-Analysis
+# IT Business Analysis
