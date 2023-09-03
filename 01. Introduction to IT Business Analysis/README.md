@@ -64,6 +64,11 @@ A technology gap analysis is comparing current tools and technology against the 
   
 ![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/cb8b5a53-0713-449c-ade7-da17aa3c8703)
 
+### Stakeholder Power-Interest Grid
+
+![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/2ab73f54-8e24-4d81-a291-9c4404a82a4b)
+
+
 
 # Overview of Case Study
 
