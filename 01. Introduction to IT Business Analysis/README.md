@@ -72,6 +72,34 @@ Plotting stakeholders onto that matrix groups them into four general categories 
 
 ![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/2ab73f54-8e24-4d81-a291-9c4404a82a4b)
 
+### RACI matrix
+
+RACI is another matrix-based approach that goes a bit deeper than the power/interest grid by considering how a stakeholder’s involvement can change throughout the course of the project.
+
+And like the grid, it includes four categories of involvement:
+
+- R: Responsible
+  - Who is responsible for getting the work done?
+  - This is the individual who executes a task, also known as the ‘hands-on’ individual
+  - They will generally report to a manager
+- A: Accountable
+  - Who oversees the task?
+  - This is the individual who ensures the work gets done properly.
+  - They are not hands-on but rather responsible for managing the people who are executing tasks and ensuring that work is completed on time and at the required quality.
+- C: Consulted
+  - Who needs to assist the completion of a task with additional information or support?
+  - This individual is not directly responsible for a task
+  - However, they do provide information that assists the person responsible for a task
+  - They are generally consulted for their expertise in a specific area
+ - I: Informed
+  - Who needs to be kept up to date on the progress of a task or deliverable?
+  - This is generally an upper management stakeholder or potentially a client
+  - They do not have immediate input on the project, but maybe the project’s owner
+
+In this model, after identifying each stakeholder, you’ll list out each stage included in the bigger project. Then, for each stakeholder, you’ll define their involvement in that part.
+
+![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/3e422967-471c-421e-8e49-6c0a9eb8af09)
+
 
 
 # Overview of Case Study
