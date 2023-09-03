@@ -31,6 +31,11 @@ Basic Process Overview
 
 ## Gap Analysis
 
+A technology gap analysis is the process of comparing current tools and technology against the desired state and then building a plan for how you will bridge the gap. A gap analysis goes beyond identifying the "what" and "when" of IT systems, infrastructure, and architecture.
+
+![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/3a97e091-1334-4608-8fcc-4a3389c28057)
+
+
 ## Stakeholder Management
 
 # Overview of Case Study
