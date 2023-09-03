@@ -19,8 +19,6 @@ They analyze IT team capabilities and the business' current processes, models, a
 - Communication with the Dev Team and Business
 - Stakeholder Management
 
-![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/9b2b3b1a-ed0a-4914-8772-8c4614db2db2)
-
 ## Concepts
 
 Basic Process Overview
