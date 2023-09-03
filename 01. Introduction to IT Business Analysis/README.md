@@ -23,6 +23,9 @@ They analyze IT team capabilities and the business' current processes, models, a
 
 ## Concepts
 
+Basic Process Overview
+
+![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/3762762f-e159-411d-b941-e646fe19f547)
 
 
 # What responsibilities does the IT BA have?
