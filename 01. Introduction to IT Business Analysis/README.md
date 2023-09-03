@@ -35,6 +35,12 @@ A technology gap analysis is the process of comparing current tools and technolo
 
 ![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/3a97e091-1334-4608-8fcc-4a3389c28057)
 
+**As Is – To Be Process**
+
+- **As Is** - The as-is state of a process is the “now” state. It's how the process operates before you make any changes or improvements.
+- **To Be** - The to-be process, on the other hand, is the future state. It is after you have taken on the identified action points and implemented the changes.
+
+
 
 ## Stakeholder Management
 
