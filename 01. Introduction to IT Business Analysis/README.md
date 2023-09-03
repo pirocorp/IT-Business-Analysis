@@ -100,6 +100,7 @@ In this model, after identifying each stakeholder, you’ll list out each stage 
 
 ![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/3e422967-471c-421e-8e49-6c0a9eb8af09)
 
+![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/9fa1bd38-0e02-45ad-9ae8-ebb4a466c51b)
 
 
 # Overview of Case Study
