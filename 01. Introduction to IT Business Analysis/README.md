@@ -15,7 +15,7 @@ They analyze IT team capabilities and the business' current processes, models, a
 - Create an IT Project Plan
 - Requirements Management and Analysis - Translate Business requirements into functional ones and vice versa
 - Business Process Mapping - Visualization of the Business model and the processes
-- Deliver System Design -  How different systems or fragments of systems interact 
+- Deliver System Design - How different systems or fragments of systems interact 
 - Communication with the Dev Team and Business
 - Stakeholder Management
 
@@ -66,42 +66,53 @@ A technology gap analysis is comparing current tools and technology against the 
 
 ### Stakeholder Power-Interest Grid
 
-This matrix helps you visualize the two most important parts of a stakeholder’s involvement: how much power they have over the project and how invested or interested they are in its success.
+This matrix helps you visualize the two most important parts of a stakeholder's involvement: how much power they have over the project and how invested or interested they are in its success.
 
-Plotting stakeholders onto that matrix groups them into four general categories of stakeholders, from those you need to manage closely to those who just need to be kept in the know.
+Plotting stakeholders onto that matrix groups them into four general categories of stakeholders, from those you need to manage closely to those who need to be kept in the know.
 
 ![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/2ab73f54-8e24-4d81-a291-9c4404a82a4b)
 
 ### RACI matrix
 
-RACI is another matrix-based approach that goes a bit deeper than the power/interest grid by considering how a stakeholder’s involvement can change throughout the course of the project.
+RACI is another matrix-based approach that goes deeper than the power/interest grid by considering how a stakeholder's involvement can change throughout the project.
 
 And like the grid, it includes four categories of involvement:
 
 - R: Responsible
   - Who is responsible for getting the work done?
-  - This is the individual who executes a task, also known as the ‘hands-on’ individual
+  - This is the individual who executes a task, also known as the 'hands-on' individual
   - They will generally report to a manager
 - A: Accountable
   - Who oversees the task?
-  - This is the individual who ensures the work gets done properly.
-  - They are not hands-on but rather responsible for managing the people who are executing tasks and ensuring that work is completed on time and at the required quality.
+  - This is the individual who ensures the work gets done correctly.
+  - They are not hands-on but rather responsible for managing the people executing tasks and ensuring that work is completed on time and at the required quality.
 - C: Consulted
   - Who needs to assist the completion of a task with additional information or support?
   - This individual is not directly responsible for a task
   - However, they do provide information that assists the person responsible for a task
   - They are generally consulted for their expertise in a specific area
  - I: Informed
-  - Who needs to be kept up to date on the progress of a task or deliverable?
+  - Who needs to be updated on the progress of a task or deliverable?
   - This is generally an upper management stakeholder or potentially a client
-  - They do not have immediate input on the project, but maybe the project’s owner
+  - They do not have immediate input on the project, but maybe the project's owner
 
-In this model, after identifying each stakeholder, you’ll list out each stage included in the bigger project. Then, for each stakeholder, you’ll define their involvement in that part.
+After identifying each stakeholder in this model, you'll list each stage included in the more extensive project. Then, you'll define each stakeholder's involvement in that part.
 
 ![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/3e422967-471c-421e-8e49-6c0a9eb8af09)
 
 ![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/9fa1bd38-0e02-45ad-9ae8-ebb4a466c51b)
 
+# Documentation of IT Project
+
+- Executive Summary - High-level summary of the document, project objectives, problems, and solutions.
+- Scope and Out of Scope - Describe the scope of the project. What will be changed and will not be changed?
+- As Is – To Be Analysis - 
+- Stakeholder Management - 
+- Business Requirements - 
+- Use Cases - Interaction between the system and external users
+- User Stories and Acceptance Criteria -
+- Wireframes - Prototypes and mockups
+- Schedule and Deadlines - Delivery plan and roadmap
 
 # Overview of Case Study
 
