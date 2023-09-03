@@ -40,6 +40,13 @@ A technology gap analysis is the process of comparing current tools and technolo
 - **As Is** - The as-is state of a process is the “now” state. It's how the process operates before you make any changes or improvements.
 - **To Be** - The to-be process, on the other hand, is the future state. It is after you have taken on the identified action points and implemented the changes.
 
+**Example**
+
+| Area Under Consideration                | We are investigating customer satisfaction with faulty goods returned within warranty. We are not considering outside of warranty, nor the satisfaction of customers at the point of sale. |                                                                       |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Current State                           | Desired State                                                                                                                                                                            | Action Steps                                                          |
+| 1. Customer Satisfaction Rate = unknown | 1. Customer Satisfaction Rate = 99%                                                                                                                                                      | 1.1 Benchmark current Customer Satisfaction 1.2 Review findings       |
+| 2. Repair Time = 16 days                | 2. Repair Time = 12 days                                                                                                                                                                 | 2.1 Implement new Repair system 2.2 Train staff to use the new system |
 
 
 ## Stakeholder Management
