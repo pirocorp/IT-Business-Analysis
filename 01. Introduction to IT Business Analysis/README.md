@@ -10,12 +10,12 @@ They analyze IT team capabilities and the business' current processes, models, a
 
 ## Responsibilities  
 
-- Create IT Solution
-- Create Change Management
+- Create IT Solution - Close cooperation with all Stakeholders to create an IT Solution for a given Business problem
+- Create Change Management - Produce a plan with steps and strategies that limit the impact on the processes, people, and technologies while facilitating the change
 - Create an IT Project Plan
-- Requirements Management and Analysis
-- Business Process Mapping
-- Deliver System Design
+- Requirements Management and Analysis - Translate Business requirements into functional ones and vice versa
+- Business Process Mapping - Visualization of the Business model and the processes
+- Deliver System Design -  How different systems or fragments of systems interact 
 - Communication with the Dev Team and Business
 - Stakeholder Management
 
