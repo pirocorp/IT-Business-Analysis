@@ -61,6 +61,9 @@ A technology gap analysis is comparing current tools and technology against the 
 - Who has a related role?
 - Who will be penalized?
 - Who will be awarded?
+  
+![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/cb8b5a53-0713-449c-ade7-da17aa3c8703)
+
 
 # Overview of Case Study
 
