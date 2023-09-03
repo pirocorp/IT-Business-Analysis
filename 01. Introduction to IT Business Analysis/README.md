@@ -42,7 +42,7 @@ A technology gap analysis is the process of comparing current tools and technolo
 
 **Example**
 
-| Area Under Consideration                | We are investigating customer satisfaction with faulty goods returned within warranty. We are not considering outside of warranty, nor the satisfaction of customers at the point of sale. |                                                                       |
+| Area Under Consideration                | We are investigating customer satisfaction with faulty goods returned within warranty. We are not considering outside of warranty, nor the satisfaction of customers at the point of sale.                                                                        ||
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | Current State                           | Desired State                                                                                                                                                                            | Action Steps                                                          |
 | 1. Customer Satisfaction Rate = unknown | 1. Customer Satisfaction Rate = 99%                                                                                                                                                      | 1.1 Benchmark current Customer Satisfaction 1.2 Review findings       |
