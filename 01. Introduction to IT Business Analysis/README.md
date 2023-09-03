@@ -66,7 +66,7 @@ A technology gap analysis is comparing current tools and technology against the 
 
 ### Stakeholder Power-Interest Grid
 
-This matrix helps you visualize the two most important parts of a stakeholder's involvement: how much power they have over the project and how invested or interested they are in its success.
+This matrix helps you visualize the two most essential parts of a stakeholder's involvement: how much power they have over the project and how invested or interested they are in its success.
 
 Plotting stakeholders onto that matrix groups them into four general categories of stakeholders, from those you need to manage closely to those who need to be kept in the know.
 
@@ -96,7 +96,7 @@ And like the grid, it includes four categories of involvement:
   - This is generally an upper management stakeholder or potentially a client
   - They do not have immediate input on the project, but maybe the project's owner
 
-After identifying each stakeholder in this model, you'll list each stage included in the more extensive project. Then, you'll define each stakeholder's involvement in that part.
+After identifying each stakeholder in this model, you'll list each stage in the more extensive project. Then, you'll define each stakeholder's involvement in that part.
 
 ![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/3e422967-471c-421e-8e49-6c0a9eb8af09)
 
@@ -113,7 +113,5 @@ After identifying each stakeholder in this model, you'll list each stage include
 - User Stories and Acceptance Criteria -
 - Wireframes - Prototypes and mockups
 - Schedule and Deadlines - Delivery plan and roadmap
-
-# Overview of Case Study
 
 # What is a Business Requirements Document (BRD)?
