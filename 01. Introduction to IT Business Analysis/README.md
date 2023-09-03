@@ -66,6 +66,10 @@ A technology gap analysis is comparing current tools and technology against the 
 
 ### Stakeholder Power-Interest Grid
 
+This matrix helps you visualize the two most important parts of a stakeholder’s involvement: how much power they have over the project and how invested or interested they are in its success.
+
+Plotting stakeholders onto that matrix groups them into four general categories of stakeholders, from those you need to manage closely to those who just need to be kept in the know.
+
 ![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/2ab73f54-8e24-4d81-a291-9c4404a82a4b)
 
 
