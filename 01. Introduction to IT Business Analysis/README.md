@@ -55,6 +55,13 @@ A technology gap analysis is comparing current tools and technology against the 
 
 **Stakeholder** - An **individual, group**, or **organization** who may **affect, be affected by**, or perceive itself **to be affected** by a project's decision, activity, or outcome.
 
+- Who will use the system?
+- Who will provide inputs to the system?
+- Who will get the outputs of the system?
+- Who has a related role?
+- Who will be penalized?
+- Who will be awarded?
+
 # Overview of Case Study
 
 # What is a Business Requirements Document (BRD)?
