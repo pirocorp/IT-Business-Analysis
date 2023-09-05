@@ -19,11 +19,11 @@ Software development processes can be divided into tasks that can be **assigned,
 
 In the **Spiral Model**, the software development process is represented as a spiral, with **each loop** of the spiral representing a **phase in the development lifecycle**. It is Risk Driven as it provides **support for Risk Handling**. 
 
- - Combination of linear and iterative
- - Focuses heavily on Risk Assessment
- - Minimized risk by breaking a project into smaller segments
- - Each cycle begins with identifying stakeholders and what success looks like
- - Each cycle ends with a review and a commitment
+ - Combination of **linear and iterative**
+ - Focuses heavily on **Risk Assessment**
+ - Minimized risk by breaking a project into **smaller segments**
+ - Each cycle **begins** with **identifying stakeholders and what success looks like**
+ - Each cycle **ends** with **a review and a commitment**
 
 
 ## Basics
