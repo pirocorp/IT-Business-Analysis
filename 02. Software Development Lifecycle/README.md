@@ -25,7 +25,14 @@ In the **Spiral Model**, the software development process is represented as a sp
  - Each cycle **begins** with **identifying stakeholders and what success looks like**
  - Each cycle **ends** with **a review and a commitment**
 
+### Pros and Cons
+| Advantages                                                    | Disadvantages                                                                    |
+|---------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Accurately manages and mitigates risks                        | Long time to get to finished product                                             |
+| Issues are identified and solved early                        | High cost and Long Time                                                          |
+| Estimates near the end of the project are very accurate       | The success of the Spiral Model relies heavily on accurate risk analysis         |
+| Early involvement from developers increases successful design | Very customized solution limits reusability                                      |
+| Supports the development of prototypes early in the process.  | More complex to manage compared to linear methodologies like the Waterfall Model |
 
-## Basics
-## Pros and Cons
-## When to Use?
+
+### When to Use?
