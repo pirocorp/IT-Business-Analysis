@@ -26,6 +26,7 @@ In the **Spiral Model**, the software development process is represented as a sp
  - Each cycle **ends** with **a review and a commitment**
 
 ### Pros and Cons
+
 | Advantages                                                    | Disadvantages                                                                    |
 |---------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Accurately manages and mitigates risks                        | Long time to get to finished product                                             |
@@ -53,6 +54,8 @@ In the **Spiral Model**, the software development process is represented as a sp
 - Streamlines the development and delivery process
 - Emphasizes Continuous Integration and Continuous Delivery (CI/CD)
 - Continuous monitoring and feedback of applications and infrastructure
+
+### Pros and Cons
 
 | Advantages                                                                                      | Disadvantages                                                                                                         |
 |-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
