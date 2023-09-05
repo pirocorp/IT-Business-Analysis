@@ -45,3 +45,25 @@ In the **Spiral Model**, the software development process is represented as a sp
 - Little to no experience in project’s area
 
 
+## DevOps Methodology
+
+**DevOps** is a set of practices, principles, and cultural philosophies that aim to **improve collaboration, communication**, and **integration** between **development (Dev)** and **IT operations (Ops)** teams in the software development and deployment process.
+
+- Automates repetitive tasks, such as build, testing, deployment, and monitoring
+- Streamlines the development and delivery process
+- Emphasizes Continuous Integration and Continuous Delivery (CI/CD)
+- Continuous monitoring and feedback of applications and infrastructure
+
+| Advantages                                                                                      | Disadvantages                                                                                                         |
+|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Enables rapid and frequent software releases                                                    | May require significant initial effort, especially in organizations with traditional development and operations silos |
+| Fosters better communication and collaboration between development, operations, and other teams | Could increase complexity in the development pipeline                                                                 |
+| Automation reduces the risk of human errors, making deployments more reliable and consistent    | Maintaining and updating automation scripts and tools                                                                 |
+| Enables organizations to scale their software development and deployment processes efficiently  | Cultural shift                                                                                                        |
+
+### When to Use?
+- If the organization needs to release software updates or new features frequently
+- When you have multiple teams working on a project, such as development, testing, operations, and security
+- DevOps complements cloud-based architectures and microservices
+- If the development process involves many repetitive tasks
+- Enables organizations to scale their software development and deployment processes efficiently
