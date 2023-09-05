@@ -34,5 +34,14 @@ In the **Spiral Model**, the software development process is represented as a sp
 | Early involvement from developers increases successful design | Very customized solution limits reusability                                      |
 | Supports the development of prototypes early in the process.  | More complex to manage compared to linear methodologies like the Waterfall Model |
 
-
 ### When to Use?
+
+- Risk identification and mitigation are extremely important 
+- Medium to High-risk projects
+- Users are unsure of their needs
+- Prototypes are needed
+- Requirements are complex
+- Time and cost are not as important
+- Little to no experience in project’s area
+
+
