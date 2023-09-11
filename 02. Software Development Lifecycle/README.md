@@ -70,3 +70,26 @@ In the **Spiral Model**, the software development process is represented as a sp
 - DevOps complements cloud-based architectures and microservices
 - If the development process involves many repetitive tasks
 - Enables organizations to scale their software development and deployment processes efficiently
+
+
+## Prototyping Methodology
+
+The **Prototyping** model is a software development method in which a **prototype is built, tested and then reworked** as necessary until an acceptable outcome is achieved from which the **complete system or product can be developed**.
+
+- Iterative progression
+- Used in conjunction with Spiral, Rapid Application Development (RAD), and Incremental models
+- Breaks project into segments and creates small-scale mock-ups of the system, called prototypes
+- Prototypes are iterated until they meet the requirementsFinal prototype usually discarded
+- Business user is involved in the full process
+
+| Advantages                                             | Disadvantages                                                     |
+|--------------------------------------------------------|-------------------------------------------------------------------|
+| Gives business users a visual of their wants and needs | Very loose approval and control process                           |
+| Promotes user participation and communication          | Non-functional requirements are tough to identify                 |
+| Allows progress even when unclear requirements         | Can lead to poorly designed systems                               |
+| Encourages innovation                                  | False expectations thinking the system is complete from prototype |
+
+
+
+
+
