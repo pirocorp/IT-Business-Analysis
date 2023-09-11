@@ -111,9 +111,7 @@ The Waterfall Methodology is a **sequential development process** that flows lik
 - Deployment - Deploy software into production environmentRelease the software to the market or customers.
 - Maintenance - Assign a dedicated team to handle maintenance tasks, including bug fixes, updates, and enhancements.Address change requests from users and release new versions of the software to ensure ongoing usability and satisfaction.
 
-### 
-
-Waterfall Pros and Cons
+### Waterfall Pros and Cons
 
 | Advantages                                                                     | Disadvantages                                                    |
 |--------------------------------------------------------------------------------|------------------------------------------------------------------|
@@ -124,8 +122,15 @@ Waterfall Pros and Cons
 |                                                                                | Promotes gap between the business users and the development team |
   
 
+### When to Use Waterfall?
 
-
+- Clear objectives and solution
+- Large, complicated, and expensive
+- No pressure for immediate return on investment (ROI) from implementation
+- Project team is fully knowledgeable about the solution application
+- Requirements are stable and will be unchanged through development
+- Resource constraints
+- Strict requirement for formal approvals at milestones
 
 
 
