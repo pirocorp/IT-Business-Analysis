@@ -182,7 +182,7 @@ The **Sprint Backlog** is a **set of product backlog tasks** that have been **pr
 They are created by selecting a task from the product backlog and **breaking that task into smaller, actionable sprint items**.
 
 
-#### Agile Scrum Pros and Cons
+### Agile Scrum Pros and Cons
 
 | Advantages                                                                       | Disadvantages                                                           |
 |----------------------------------------------------------------------------------|-------------------------------------------------------------------------|
@@ -190,4 +190,16 @@ They are created by selecting a task from the product backlog and **breaking tha
 | Gets workable product in-front of the business stakeholders quicker              | Relies on commitment of all team members                                |
 | Promotes collaboration between business and development teams                    | Challenging to initially adopt and train in an organization             |
 | Daily feedback on progress and roadblocks which prevent from completion of tasks | Changing or leaving team members can have a drastically negative effect |
+
+
+### When to Use Agile Scrum?
+
+- The project is unpredictable and will have changing requirements
+- Using or creating leading edge technology
+- Organization as an experienced Scrum Master
+- Business has experienced resource that can dedicate time to the project 
+- Pressure to produce a tangible product quickly
+- Little to no concerns on length of project or budget
+- Development team doesn’t have resource constraints
+
 
