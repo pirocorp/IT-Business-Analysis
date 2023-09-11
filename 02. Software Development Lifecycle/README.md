@@ -203,3 +203,19 @@ They are created by selecting a task from the product backlog and **breaking tha
 - Development team doesn’t have resource constraints
 
 
+## Kanban
+
+**Kanban** provides a **visual representation of work items, tasks, or user stories** on a physical or digital **board**. The board typically consists of **columns representing different stages of the workflow**, and each work item is represented by a card that moves across the columns as it progresses through the development process.
+
+- Visual Representation as it utilized form of a board
+- Transparency
+- Work In Progress Limits for not overloading team members
+- Easy management of workflow and work items
+- Ability to be adopted with all other SDLC methodologies
+
+
+
+
+
+
+
