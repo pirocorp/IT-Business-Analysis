@@ -133,4 +133,61 @@ The Waterfall Methodology is a **sequential development process** that flows lik
 - Strict requirement for formal approvals at milestones
 
 
+## Agile Methodology
+
+**Agile** methodology is a project management framework that breaks projects down into **several dynamic phases**, commonly known as **sprints**. The Agile framework is an **iterative methodology**.
+
+![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/01f0d8cf-c84d-49dc-b4d8-203363418420)
+
+- Uses iterative approach called Sprints
+- Flexible and adaptable, great for the unknown
+- Values individuals and interactions over processes and tools
+- Values working software over comprehensive documentation
+- Values customer collaboration over contract negotiation
+- Values responding to change over following a plan
+
+**Note**: Nearly 95% of the time the BA and Product Owner is one person in Scrum.
+
+
+### Agile Scum Ceremonies
+
+**Sprint Planning**: At the beginning of each sprint, the team collaboratively selects a subset of items from the product backlog to work on during that sprint. They plan how to complete these items and define the sprint goal.
+
+**Daily Stand-ups**: Short daily 10-15 minutes meetings are held, where team members share updates on what they accomplished the previous day, what they plan to do that day, and any impediments they are facing.
+
+**Sprint Review**: At the end of each sprint, the team demonstrates the completed work to stakeholders and receives feedback. This meeting helps the team gather insights and make improvements.
+
+**Sprint Retrospective**: Following the sprint review, the team holds a retrospective to evaluate their performance during the sprint. They identify what went well, what could be improved, and action items to enhance their processes.
+
+![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/151a02c6-5c81-4bff-bfa9-47586ab25138)
+
+
+### Agile Scrum Artifacts
+
+**Agile Scrum Artifacts** are information that a scrum team and stakeholders use to detail the **product being developed, actions to produce it, and the actions performed during the project**.
+
+#### Product Backlog
+
+The **Product Backlog** is a **list of new features, enhancements, bug fixes, tasks, or work requirements** needed to build a product. It’s compiled from input sources like customer support, competitor analysis, market demands, and general business analysis. 
+
+- Prioritized list of items
+- Dynamic and Evolving
+- User-Centric
+
+
+#### Sprint Backlog
+
+The **Sprint Backlog** is a **set of product backlog tasks** that have been **promoted to be developed during the next product increment**.
+
+They are created by selecting a task from the product backlog and **breaking that task into smaller, actionable sprint items**.
+
+
+#### Agile Scrum Pros and Cons
+
+| Advantages                                                                       | Disadvantages                                                           |
+|----------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Flexible and adaptable to changing requirements                                  | Leads to scope creep due to no defined end date                         |
+| Gets workable product in-front of the business stakeholders quicker              | Relies on commitment of all team members                                |
+| Promotes collaboration between business and development teams                    | Challenging to initially adopt and train in an organization             |
+| Daily feedback on progress and roadblocks which prevent from completion of tasks | Changing or leaving team members can have a drastically negative effect |
 
