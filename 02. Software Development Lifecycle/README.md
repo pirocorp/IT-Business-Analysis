@@ -102,6 +102,8 @@ The Waterfall Methodology is a **sequential development process** that flows lik
 - Fully planned, including time schedule and budget
 - Extensive written documentation and formal approval process
 
+### Steps
+
 - Requirements - Conduct Analysis of Business Needs and state of the Business Organization as a whole.Identify key Stakeholders for the particular project.Elicit and document Requirements for project.
 - Design - Create a higher-level or logical design that outlines the purpose, scope, and integration points of the project.Transform the logical design into a physical design using specific hardware and software technologies.Define the layouts, data models, and traffic flow of each component of the software solution.
 - Development - Code the applications based on project requirements and specifications.Conduct testing and debugging during the implementation phase.Collaborate with the design team to address any necessary design changes or refinements.
