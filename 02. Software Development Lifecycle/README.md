@@ -90,6 +90,31 @@ The **Prototyping** model is a software development method in which a **prototyp
 | Encourages innovation                                  | False expectations thinking the system is complete from prototype |
 
 
+## Waterfall Methodology
+
+The Waterfall Methodology is a **sequential development process** that flows like a waterfall through all phases of a project, with **each phase completely wrapping up before the next phase begins**.
+
+- Linear progression
+- "Traditional" model
+- Next phase begins once the previous phase is complete
+- Each phase begins with previous phase's output
+- No process to go back to the previous phase
+- Fully planned, including time schedule and budget
+- Extensive written documentation and formal approval process
+
+- Requirements - Conduct Analysis of Business Needs and state of the Business Organization as a whole.Identify key Stakeholders for the particular project.Elicit and document Requirements for project.
+- Design - Create a higher-level or logical design that outlines the purpose, scope, and integration points of the project.Transform the logical design into a physical design using specific hardware and software technologies.Define the layouts, data models, and traffic flow of each component of the software solution.
+- Development - Code the applications based on project requirements and specifications.Conduct testing and debugging during the implementation phase.Collaborate with the design team to address any necessary design changes or refinements.
+- Testing - Develop test cases based on design documents, personas, and user case scenarios.Execute various testing methodologies, such as functional testing, integration testing, and performance testing.Identify and document any defects or issues discovered during testing and work with the development team to resolve them.
+- Deployment - Deploy software into production environmentRelease the software to the market or customers.
+- Maintenance - Assign a dedicated team to handle maintenance tasks, including bug fixes, updates, and enhancements.Address change requests from users and release new versions of the software to ensure ongoing usability and satisfaction.
+
+
+
+  
+
+
+
 
 
 
