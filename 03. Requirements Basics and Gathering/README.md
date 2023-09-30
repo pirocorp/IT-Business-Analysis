@@ -2,6 +2,13 @@
 
 ## What is the Requirement in an IT Project?
 
+Barry Boehm (1981) defines requirements as "designing the right thing."
+
+- List of **WHAT** the Stakeholders need
+- List of **WHAT** the System/App must do to Satisfy those needs
+- List of **WHAT** components must be built/developed
+- List of **WHAT** each component must **DO** and **HOW** they will **INTERACT**
+
 ![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/fbce52ff-09e4-4706-a7dc-adf7926bada9)
 
 The Weight of Ambiguous Requirements
