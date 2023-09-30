@@ -261,7 +261,13 @@ Survey Types
 | Supplement more subjective information, such as opinions gained through interviews 	| Incentives for responding might be expensive                                   	|
 
 
+### Documentation Review
 
+Reviewing **existing documentation** that could include **User Guides, Prior system implementation documentation, Technical documentation, etc.**
 
-
+| Advantages                                                             	| Disadvantages                                                    	|
+|------------------------------------------------------------------------	|------------------------------------------------------------------	|
+| Current process documentation provides a great starting point          	| Existing documentation may be old and outdated                   	|
+| The documentation authors could potentially be key stakeholders.   | Most of the time, some documents need additional technical input. |
+| Identifies gaps from previous projects' implementation                 	| It can be time-consuming and may not provide the desired payback 	|
 
