@@ -45,6 +45,12 @@ flowchart LR
 | Component, API, UI, etc.                                                                	| Performance, Usability, Security, etc.                            	|
 | External Interface,<br>Authentication,<br>Authorization Levels,<br>Business Rules, etc. 	| Usability, <br>Reliability,<br>Scalability, <br>Performance, etc. 	|
 
+```mermaid
+flowchart LR
+    id1("Functional Requirements") --> id2("System/Product")
+    id3("Non-Functional Requirements") --> id2
+```
+
 #### Functional Requirements
 
 | Things the product must do                               	| Action the product must take                                      	|
