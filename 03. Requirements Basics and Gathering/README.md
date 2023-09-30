@@ -147,7 +147,7 @@ Questions to Ask:
 
 Guidelines: 
 
-- Run all requirements through a ‘sanity check’.
+- Run all requirements through a 'sanity check'.
 - Ensure the requirement makes sense in the context of the project.
 
 ### Traceable
@@ -195,6 +195,16 @@ flowchart LR
 - Survey
 - Documentation Review
 
+
+### Brainstorming
+
+Brainstorming is a creative technique for developing new ideas and solving problems.
+
+Brainstorming Types
+
+- Individual - Project team member creates a list of ideas.
+- Open - Participants call out ideas that are captured by the scribe.
+- Structured - Participants write down their ideas, and the Facilitator goes from participant to participant to have them share one idea each. Continue until all ideas are exhausted.
 
 
 
