@@ -34,6 +34,17 @@ flowchart LR
 
 ### Categories of Requirements
 
+| Functional                                                                              	| Non-Functional                                                    	|
+|-----------------------------------------------------------------------------------------	|-------------------------------------------------------------------	|
+| Describe What the product does                                                          	| Describe How the product works                                    	|
+| Define Product Features                                                                 	| Define Product Properties                                         	|
+| Focus on User Requirements                                                              	| Focus on User Expectations                                        	|
+| Captured in Use Case                                                                    	| Captured as Quality Attribute                                     	|
+| Mandatory                                                                               	| Not Mandatory, but Desirable                                     	|
+| Usually defined by User                                                                 	| Usually defined by Developers or other tech experts               	|
+| Component, API, UI, etc.                                                                	| Performance, Usability, Security, etc.                            	|
+| External Interface,<br>Authentication,<br>Authorization Levels,<br>Business Rules, etc. 	| Usability, <br>Reliability,<br>Scalability, <br>Performance, etc. 	|
+
 #### Functional Requirements
 
 | Things the product must do                               	| Action the product must take                                      	|
