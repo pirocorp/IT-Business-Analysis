@@ -211,5 +211,26 @@ Brainstorming Types
 | Helps to explore different possibilities and uncover new requirements.                                                                               	| Dominant participants overshadowing others or group think, where conformity hinders the exploration of diverse perspectives. 	|
 | Rapid generation of many ideas, fostering creativity and innovation.                                                                    	| Ideas are not discussed/explored.                                                                                            	|
 | Involves multiple perspectives and different project contexts.                                                                                       	| True meaning may need to be clarified or understood.                                                                              	|
-| Promotes equal participation as it actively engages team members and stakeholders, making them feel involved in the requirement elicitation process. 	| Time constraints may result in rushed discussions, leading to superficial or incomplete requirement generation.              	|
+| Promotes equal participation as it engages team members and stakeholders, making them feel involved in the requirement elicitation process. 	| Time constraints may result in rushed discussions, leading to superficial or incomplete requirement generation.              	|
+
+
+### Observation
+
+**Observation Studies** involve watching users interact with a system, process, or product in their natural environment.
+
+Observation Types
+
+- Direct - Provides firsthand insights into user behaviors, workflows, and challenges, leading to accurate requirement capture.
+- Contextual Inquiry - Combines observation with interviews, where the analyst observes users in their work environment and engages in conversations to gather additional insights.
+- Remote - Observing users or stakeholders remotely using video conferencing or screen-sharing technology.
+
+
+### Interviews
+
+Systematic discussion to drive out accurate requirements quickly
+
+
+
+
+
 
