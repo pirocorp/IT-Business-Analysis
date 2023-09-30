@@ -180,3 +180,9 @@ Guidelines
 - Stated imperatively
 - Don't use **will** and **should**
 
+### Phases of the Requirements Process
+
+```mermaid
+flowchart LR
+    id1("Requirement Elicitation") --> id2("Requirement Analysis") --> id3("Requirement Specification") --> id4("Requirements Approval")
+```
