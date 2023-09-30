@@ -111,7 +111,7 @@ Questions to Ask:
 
 - How much?
 - How many?
-- How will I know when it is accomplished?
+- How can I know when it is accomplished?
 
 Guidelines:
 
@@ -157,7 +157,7 @@ Trace requirements through design, implementation, and testing.
 Questions to Ask:
 
 - Can I ensure this requirement has been met in the design solution?
-- Can I make sure this requirement has been met in the implementation?
+- Can I ensure this requirement has been met in the implementation?
 - Can I ensure this requirement has been met during testing?
 
 Guidelines
