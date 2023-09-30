@@ -227,9 +227,21 @@ Observation Types
 
 ### Interviews
 
-Systematic discussion to drive out accurate requirements quickly
+Systematic discussion to drive out accurate requirements quickly.
 
+Interview Types
 
+- Structured - Follows a predefined set of questions or topics, ensuring consistency across interviews and enabling easier comparison of responses.
+- Semi-Structured - Combination of predefined questions and the flexibility to explore additional topics or follow up on exciting points raised during the conversation.
+- Group Interviews - Involves interviewing multiple stakeholders or users simultaneously, fostering discussion, and capturing diverse perspectives within a group setting.
+
+| Advantages                                                                                   	| Disadvantages                                                                                                         	|
+|----------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------	|
+| Promote interactive discussions to explore detailed information                              	| Require access and commitment of stakeholders                                                                         	|
+| Identify conflicts or discrepancies about stated needs or requirements                       	| Creation of scripted interview questions can be time-consuming                                                        	|
+| Encourage participation and build relationships by establishing rapport with the stakeholders 	| Stakeholders have difficulty describing their future needs, so they usually focus on what they do currently. |
+| Enable observations of nonverbal behavior                                                    	| Resulting documentation is subject to interpretation of the interviewer                                               	|
+| Allow immediate follow-up to ensure understanding                                            	| Transcription and analysis of interview data can be complex and expensive                                             	|
 
 
 
