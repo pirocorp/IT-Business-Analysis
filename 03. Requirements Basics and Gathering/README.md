@@ -19,6 +19,10 @@ Barry Boehm (1981) defines requirements as "designing the right thing."
 flowchart LR
     id1("Stakeholders") --> id2("Requirements (Business Analyst)") --> id3("Specifications") --> id4("Design Sign-off")
     id4 -. "Requirement Discovery" .-> id1
+    id5("Dev Team") --> id6("Development")
+    id5 --> id7("Testing")
+    id8("Requirements Capture") -.-> id6
+    id8 -.-> id1
 ```
 
 ### What Do Requirements Focus On?
