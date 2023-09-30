@@ -32,9 +32,16 @@ flowchart LR
 - What constraints apply to the system?
 - Who and how the system should be used?
 
+### Categories of Requirements
 
+#### Functional Requirements
 
+| Things the product must do                               	| Action the product must take                                      	|
+|----------------------------------------------------------	|-------------------------------------------------------------------	|
+| Scope of the Product                                     	| Functional and Data Requirements                                  	|
+| Defines the boundaries and connections to other products 	| Things the product must do and data manipulated by the functions. 	|
 
+#### Non-Functional
 
 
 
