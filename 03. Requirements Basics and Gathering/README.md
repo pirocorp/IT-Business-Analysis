@@ -67,3 +67,12 @@ flowchart LR
 | Legal Requirements                            	| Security Requirements                        	|
 | Cultural and Political Requirements           	| Maintainability and Portability Requirements 	|
 
+#### Product Constraints
+
+| Purpose of the Project                                   	| Users of the Product                                      	|
+|----------------------------------------------------------	|-----------------------------------------------------------	|
+| Reason for building the product                          	| People who interact with the product                      	|
+| Intended end-users and how they affect product usability 	| Limitations of the project and restrictions on design     	|
+| Naming Conventions and Definitions                       	| Outside influences that make a difference to this product 	|
+| Assumptions developers are making                        	| Assumptions developers are making                         	|
+
