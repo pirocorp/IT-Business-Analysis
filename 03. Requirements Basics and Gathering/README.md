@@ -43,5 +43,10 @@ flowchart LR
 
 #### Non-Functional
 
-
+| Properties or qualities the product must have 	| How the product will behave                  	|
+|-----------------------------------------------	|----------------------------------------------	|
+| Look and Feel Requirements                    	| Usability Requirements                       	|
+| Performance Requirements                      	| Operational Requirements                     	|
+| Legal Requirements                            	| Security Requirements                        	|
+| Cultural and Political Requirements           	| Maintainability and Portability Requirements 	|
 
