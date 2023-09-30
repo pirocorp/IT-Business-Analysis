@@ -76,3 +76,10 @@ flowchart LR
 | Naming Conventions and Definitions                       	| Outside influences that make a difference to this product 	|
 | Assumptions developers are making                        	| Assumptions developers are making                         	|
 
+## SMART Technique for Requirements Structure
+
+- **S**pecific
+- **M**easurable
+- **A**ttainable
+- **R**easonable
+- **T**raceable
