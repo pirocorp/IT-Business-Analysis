@@ -239,9 +239,28 @@ Interview Types
 |----------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------	|
 | Promote interactive discussions to explore detailed information                              	| Require access and commitment of stakeholders                                                                         	|
 | Identify conflicts or discrepancies about stated needs or requirements                       	| Creation of scripted interview questions can be time-consuming                                                        	|
-| Encourage participation and build relationships by establishing rapport with the stakeholders 	| Stakeholders have difficulty describing their future needs, so they usually focus on what they do currently. |
+| Encourage participation and build relationships by establishing rapport with the stakeholders 	| Stakeholders need help describing their future needs, so they usually focus on what they do currently. |
 | Enable observations of nonverbal behavior                                                    	| Resulting documentation is subject to interpretation of the interviewer                                               	|
 | Allow immediate follow-up to ensure understanding                                            	| Transcription and analysis of interview data can be complex and expensive                                             	|
+
+### Survey
+
+A **Survey** is a **systematic and structured data collection** method to gather information, opinions, preferences, and feedback from **various stakeholders** related to a software development project.
+
+Survey Types
+
+- Open-Ended Questions - Allows respondents to answer in their own words. Practical but very time-consuming to interpret and catalog.
+- Closed-Ended Questions - A finite set of answers for each question. Lends itself to statistical analysis. Tough to create questions that are not leading or need an "Other" response.
+
+| Advantages                                                                         	| Disadvantages                                                                  	|
+|------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------	|
+| Require limited stakeholder's time                                                 	| Relatively low response rate                                                   	|
+| Effective at reaching geographically dispersed stakeholders                        	| Poorly worded questions may provide inaccurate information                     	|
+| Scalable for large audiences                                                       	| Use of open-ended questions requires more analysis by the business analyst 	|
+| Relatively fast and inexpensive to administer                                      	| Require both instrument training and problem or business domain experience     	|
+| Supplement more subjective information, such as opinions gained through interviews 	| Incentives for responding might be expensive                                   	|
+
+
 
 
 
