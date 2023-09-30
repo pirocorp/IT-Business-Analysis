@@ -83,3 +83,100 @@ flowchart LR
 - **A**ttainable
 - **R**easonable
 - **T**raceable
+
+### Specific
+
+Evident, no ambiguity. Consistent, same terminology throughout. Simple.
+
+Questions to Ask:
+
+- What?
+- Why?
+- Who?
+- Where?
+
+Guidelines:
+
+- Avoid “some,” “several,” “many”
+- State pronouns clearly: “A calls B. It is updated.”
+- Specify units all with numbers
+- Use pictures to clarify understanding
+- Provide explanations for terms like “transmitted,” “sent,” “downloaded,” and “processed.”
+
+### Measurable
+
+Measure progress towards the goal. Indicators should be quantifiable.
+
+Questions to Ask:
+
+- How much?
+- How many?
+- How will I know when it is accomplished?
+
+Guidelines:
+
+- Ensure measurable during requirement elicitation.
+- Validate unequivocal success can be proven with that requirement.
+- Determine tests that must be used to verify the requirement was met.
+
+### Attainable
+
+Validate requirement is feasible within the technical expertise, project scope, and budget.
+
+Questions to Ask:
+
+- Is there a theoretical solution to the problem?
+- Has it been done before?
+- Are there any known constraints (environmental, physical, etc.)?
+
+Guidelines:
+
+- Determine who has responsibility for satisfying the requirement and validate they can deliver.
+- Ensure sufficient time, resources, and budget.
+- Reuse pieces from previous projects.
+
+### Reasonable
+
+Validate the effort is worth the requirement.
+
+Questions to Ask:
+
+- Do you think this is worthwhile?
+- Is the timing right?
+- Do you think this matches our other efforts/needs?
+
+Guidelines: 
+
+- Run all requirements through a ‘sanity check’.
+- Ensure the requirement makes sense in the context of the project.
+
+### Traceable
+
+Trace requirements through design, implementation, and testing.
+
+Questions to Ask:
+
+- Can I ensure this requirement has been met in the design solution?
+- Can I make sure this requirement has been met in the implementation?
+- Can I ensure this requirement has been met during testing?
+
+Guidelines
+
+- Requirements should include
+- Originators
+- Assumptions
+- Business justifications
+- Dependencies on other requirements
+- Importance
+
+### Tips for Producing Valid Requirements
+
+- Use the word **shall**
+- Only one **shall** per requirement
+- Written in short, simple sentences
+- Consistent terminology
+- Stated positively
+- Accompanied by notes and comments to support and clarify
+- Stated imperatively
+- Don't use **will** and **should**
+
