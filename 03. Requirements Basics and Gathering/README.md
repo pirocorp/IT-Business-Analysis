@@ -148,7 +148,7 @@ Questions to Ask:
 Guidelines: 
 
 - Run all requirements through a 'sanity check'.
-- Ensure the requirement makes sense in the context of the project.
+- Make sure the requirement makes sense in the context of the project.
 
 ### Traceable
 
@@ -157,7 +157,7 @@ Trace requirements through design, implementation, and testing.
 Questions to Ask:
 
 - Can I ensure this requirement has been met in the design solution?
-- Can I ensure this requirement has been met in the implementation?
+- Can I make sure this requirement has been met in the implementation?
 - Can I ensure this requirement has been met during testing?
 
 Guidelines
@@ -206,5 +206,10 @@ Brainstorming Types
 - Open - Participants call out ideas that are captured by the scribe.
 - Structured - Participants write down their ideas, and the Facilitator goes from participant to participant to have them share one idea each. Continue until all ideas are exhausted.
 
-
+| Advantages                                                                                                                                           	| Disadvantages                                                                                                                	|
+|------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------	|
+| Helps to explore different possibilities and uncover new requirements.                                                                               	| Dominant participants overshadowing others or group think, where conformity hinders the exploration of diverse perspectives. 	|
+| Rapid generation of many ideas, fostering creativity and innovation.                                                                    	| Ideas are not discussed/explored.                                                                                            	|
+| Involves multiple perspectives and different project contexts.                                                                                       	| True meaning may need to be clarified or understood.                                                                              	|
+| Promotes equal participation as it actively engages team members and stakeholders, making them feel involved in the requirement elicitation process. 	| Time constraints may result in rushed discussions, leading to superficial or incomplete requirement generation.              	|
 
