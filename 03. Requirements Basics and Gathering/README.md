@@ -186,3 +186,15 @@ Guidelines
 flowchart LR
     id1("Requirement Elicitation") --> id2("Requirement Analysis") --> id3("Requirement Specification") --> id4("Requirements Approval")
 ```
+
+## How to Elicit Requirements from Stakeholders?
+
+- Brainstorming
+- Observation
+- Interview
+- Survey
+- Documentation Review
+
+
+
+
