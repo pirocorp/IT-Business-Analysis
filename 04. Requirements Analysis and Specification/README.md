@@ -167,3 +167,76 @@ Some companies adopt the **1-3 scale**.
 | 1  	| The system shall notify featurSystemlert users of important updates or events.                                	| F                  	| Must-have            	| Users should receive timely notifications within the System to stay informed about critical updates or events.                                          	|
 | 2  	| The application shall maintain a response time of under 2 seconds for user interactions to ensure a seamless user experience. 	| NF                 	| Should-have          	| The application's response time, from user action to system response, should consistently be below 2 seconds to provide a satisfactory user experience. 	|
 
+
+## User Story
+
+Requirement Through the User's Eyes
+
+**User Story Template:**
+
+As a [description of user/role], I want [functionality/action]. So that [benefit/business value].
+
+**Acceptance Criteria Template:**
+
+Given that [precondition], When [action]. Then [expected results].
+
+- User [Who]
+- Needs [What]
+- Goals [Why] - "Why" links **User** and **Goals** with **Acceptance Criteria** and **Acceptance Tests**.
+
+Examples:
+
+**User Story**: **As** a user, **I want to** be able to request cash from my account at an ATM **so that** I can receive the money from my account quickly and in different places.
+
+**Scenario: Requesting the cash from a creditworthy account**
+
+- **Given** that the account is creditworthy,
+- **And** the card is valid
+- **And** the dispenser contains cash
+- **When** the customer requests the cash
+- **Then**, ensure the account is debited
+- **And** ensure cash is dispensed
+- **And** ensure the card is returned.
+
+**Scenario: Requesting the cash from an overdrawn account**
+
+- **Given** that the account is overdrawn,
+- **And** the card is valid
+- **When** the customer requests the cash
+- **Then**, ensure the rejection message is displayed
+- **And** ensure cash is not dispensed.
+
+**User Story**: **As** an online shopper, **I want to** be able to add items to my shopping cart **so that** I can review and purchase them later.
+
+**Scenario: Adding a single item to the shopping cart**
+
+- **Given** that the user is browsing a product on the website,
+- **When** they click the "Add to Cart" button
+- **Then**, the item should be added to their shopping cart,
+- **And** the cart quantity should increment by 1,
+- **And** the cart total should reflect the price of the added item.
+
+**Scenario: Adding multiple items to the shopping cart**
+
+- **Given** that the user is browsing multiple products on the website,
+- **When** they click the "Add to Cart" button for each product,
+- **Then**, all the selected items should be added to their shopping cart,
+- **And** the cart quantity should increment by the number of added items,
+- **And** the cart total should reflect the prices of all the added items combined,
+
+**Scenario: Verifying the shopping cart contents**
+
+- **Given** that the user has added items to their shopping cart,
+- **When** they navigate to the shopping cart page,
+- **Then**, they should see a list of all the added items.
+- **And** each item should display its name, quantity, price, and subtotal,
+- **And** the cart total should reflect the sum of all the item subtotals.
+
+### Why Do We Need User Stories and Acceptance Criteria?
+
+**User Stories** and **Acceptance Criteria** provide **additional context**. What are the groups of users our system will serve? What are the user’s needs and goals? Help with collaboration, clarity and quality assurance.
+
+
+
+
+
