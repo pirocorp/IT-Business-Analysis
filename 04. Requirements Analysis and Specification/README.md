@@ -119,7 +119,7 @@ The System shall record all the riads that have been treated.
 
 **Fit Criteria:**
 
-The recorded treated roads shall agree with the driver’s road treatment logs and shall be up to date within 30 minutes of the completion of the road’s treatment.
+The recorded treated roads shall agree with the driver's road treatment logs and shall be up to date within 30 minutes of the completion of the road's treatment.
 
 ### Requirements Attributes
 
@@ -146,13 +146,24 @@ Generally, there are too **many functions and features** to implement within the
 
 ## MoSCoW Method
 
-- **M**ust have
-- **S**hould have
-- **C**ould have
-- **W**on’t have
+- **M**ust have - All the requirements for the project's successful completion.
+- **S**hould have - Requirements that are important for project completion but optional.
+- **C**ould have - Requirements that are nice but have a much smaller impact when left out of the project.
+- **W**on't have - All the requirements recognized as not a priority for the project's timeline.
 
 
+## Other ways of Requirements Prioritization
+
+Some companies adopt the **1-3 scale**. 
+- **1-3** to define **usefulness** and **value** to the business (Critical, Important, Nice to have).
+- **1-3** **Estimated Cost** for development of particular requirement.
+- **1-3** to determine **Timeframe**
 
 
+## Documentation of Requirements
 
+| ID 	| Requirement                                                                                                                   	| Type <br>(F or NF) 	| Priority<br>(MoSCoW) 	| Fit Criteria                                                                                                                                            	|
+|----	|-------------------------------------------------------------------------------------------------------------------------------	|--------------------	|----------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| 1  	| The system shall provide a notification feature to alert users of important updates or events.                                	| F                  	| Must-have            	| Users should receive timely notifications within the system to stay informed about critical updates or events.                                          	|
+| 2  	| The application shall maintain a response time of under 2 seconds for user interactions to ensure a seamless user experience. 	| NF                 	| Should-have          	| The application's response time, from user action to system response, should consistently be below 2 seconds to provide a satisfactory user experience. 	|
 
