@@ -100,3 +100,26 @@ The xxx command must perform the following actions.
 **Qualified Requirement:**
 
 Each command shall be executed during system testing to demonstrate its functionality.
+
+### Foundations for Testing
+
+Does this implementation meet/fit the requirement?
+
+- Quantity
+- Measure
+- Specify
+
+### Fit Criteria
+
+Fit Criteria specifies **how you will know** that the **product has successfully carried out that action**.
+
+**Requirement:**
+
+The System shall record all the riads that have been treated.
+
+**Fit Criteria:**
+
+The recorded treated roads shall agree with the driver’s road treatment logs and shall up to date within 30 minutes of the completion of the road’s treatment.
+
+
+
