@@ -144,6 +144,15 @@ The recorded treated roads shall agree with the driver’s road treatment logs a
 Generally, there are too **many functions and features** to implement within the **project schedule and budget**. **Requirement Prioritization** helps to ensure that **resources and efforts** are focused on the **most critical requirements to achieve maximum value**.
 
 
+## MoSCoW Method
+
+- **M**ust have
+- **S**hould have
+- **C**ould have
+- **W**on’t have
+
+
+
 
 
 
