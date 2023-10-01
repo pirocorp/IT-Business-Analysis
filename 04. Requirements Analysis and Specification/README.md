@@ -74,7 +74,7 @@ Each PC shall have Microsoft Office 2019 and Windows 10 installed.
 
 ### Focusing Requirements
 
-Combine overlapping requirements into one focused requirement?
+Combine overlapping requirements into one focused condition?
 
 **Example** 
 
@@ -119,7 +119,31 @@ The System shall record all the riads that have been treated.
 
 **Fit Criteria:**
 
-The recorded treated roads shall agree with the driver’s road treatment logs and shall up to date within 30 minutes of the completion of the road’s treatment.
+The recorded treated roads shall agree with the driver’s road treatment logs and shall be up to date within 30 minutes of the completion of the road’s treatment.
+
+### Requirements Attributes
+
+- Unique Identifier
+- Acceptance Criteria
+- Author
+- Complexity
+- Ownership
+- Performance
+- Urgency
+- Business Value
+- Status
+- Type
+- Priority
+- Source
+
+
+## Prioritisation of Requirements
+
+**Requirement Prioritization** **identifies and ranks the importance** of different requirements to **achieve the project goals and objectives**.
+
+Generally, there are too **many functions and features** to implement within the **project schedule and budget**. **Requirement Prioritization** helps to ensure that **resources and efforts** are focused on the **most critical requirements to achieve maximum value**.
+
+
 
 
 
