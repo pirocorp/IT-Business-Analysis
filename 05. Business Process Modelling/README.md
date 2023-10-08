@@ -64,7 +64,8 @@ An **Event** is a trigger that **starts**, **modifies**, or **completes** a proc
 
 A **Gateway** acts as a **decision point** that decides which (outgoing) decision to take based on **evaluating the situation**.
 
-![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/b6b2f287-d2db-4d04-a20f-086868263383)
+![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/1fba311d-a949-4221-a0f8-78212ca96193)
+
 
 
 
