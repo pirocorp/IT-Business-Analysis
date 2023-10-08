@@ -104,10 +104,15 @@ Unlike previous gateways that process a decision based on information received, 
 **Association**: used to link artifacts (data and other information) with other diagram objects, including flow objects (activities, events, and gateways). ![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/1035b2bb-fe2f-44cf-acca-df51b959d9c2)
 
 
+### Artifacts
+
+Additional information that developers add to bring a necessary level of detail to the diagram.
+
+**Data Object** - Mechanism to show how activities require or produce data. They are connected to activities through Associations.
+
+**Text Annotation** - Mechanism for a modeler to provide additional textual information for the reader of a BPMN diagram.
 
 
+### As Is – To Be Process
 
-
-
-
-
+![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/a430751d-5b5a-4e2a-a6fb-2435c53a7fb4)
