@@ -83,7 +83,11 @@ Description of a Use Case:
 
 ![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/c356afc8-b0cd-4eec-a0eb-8fadfe52c15c)
 
-
+- Choose an appropriate name - The title of the Use Case sets the context
+- Illustrate complete behavior
+- Provide inverse use cases
+- Limit use cases to one behavior
+- Represent actors’ points of view - It is easier to capture the use cases if you are “in the shoes” of the actor
 
 
 
