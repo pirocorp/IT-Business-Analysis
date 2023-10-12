@@ -75,8 +75,17 @@ Description of a Use Case:
 10. Guest leaves
 
 **Alternatives**:
-▪ At **1**, if the restaurant is full, guest waits at the bar
-▪ At **4**, if the dish is not available, the guest chooses another one
-▪ At **8**, the sequence can be extended by the **Flowers and Champagne Proposal** use case
+- At **1**, if the restaurant is full, guest waits at the bar
+- At **4**, if the dish is not available, the guest chooses another one
+- At **8**, the sequence can be extended by the **Flowers and Champagne Proposal** use case
+
+### Description of Use Case Template
+
+![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/c356afc8-b0cd-4eec-a0eb-8fadfe52c15c)
+
+
+
+
+
 
 
