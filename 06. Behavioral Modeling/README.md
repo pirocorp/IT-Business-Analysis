@@ -20,5 +20,15 @@ Stick figures are used to represent an actor. An actor is a **person**, **organi
 
 A use case is drawn as an oval. It is the **behavior/process** that the **system offers to the actors** to help meet the actors' goals.
 
+**Association**
+
+**Solid lines** indicate associations **between actors and use cases** in use case diagrams.
+
+**Dependency**
+
+Dependencies are dotted/dashed arrows that represent the **relationship between actors and use case**
+- **include** - common behaviour
+- **extend** - optional behaviour
+
 ![image](https://github.com/pirocorp/IT-Business-Analysis/assets/34960418/4aa3d2c6-a4a6-4884-8855-2adb89541b89)
 
