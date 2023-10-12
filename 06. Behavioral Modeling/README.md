@@ -63,7 +63,7 @@ Description of a Use Case:
 **Goal**: Satisfy hunger and have a nice time
 
 **Sequence**:
-1. The guest enters the restaurant
+1. The guest enters the Restaurant
 2. The guest is shown the table
 3. Sits at the table and studies the menu
 4. Places order
@@ -75,7 +75,7 @@ Description of a Use Case:
 10. Guest leaves
 
 **Alternatives**:
-- At **1**, if the restaurant is full, guest waits at the bar
+- At **1**, if the Restaurant is full, guest waits at the bar
 - At **4**, if the dish is not available, the guest chooses another one
 - At **8**, the sequence can be extended by the **Flowers and Champagne Proposal** use case
 
@@ -87,9 +87,12 @@ Description of a Use Case:
 - Illustrate complete behavior
 - Provide inverse use cases
 - Limit use cases to one behavior
-- Represent actors’ points of view - It is easier to capture the use cases if you are “in the shoes” of the actor
+- Represent actors' points of view - It is easier to capture the use cases if you are "in the shoes" of the actor
 
+### User Story vs Use Case
 
+User Story defines who, what, and why of a product feature, while the use case focuses on the functionalities of
+a feature or process.
 
 
 
