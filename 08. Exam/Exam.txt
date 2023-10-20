@@ -1,0 +1,79 @@
+BikeO As is To be
+
+2 pools 
+
+Client
+
+BikeO
+
+2 lanes 
+Docking Station
+Customer Service
+
+
+BRD Requirements:
+
+Add stakeholders identification
+
+
+Bikes can be left out of docking station.
+
+Bikes can be reserved for 15 min.
+
+Invoices should be emited to the client email.
+
+Gamification out of scope.
+Chat Bot out of scope.
+Customer Service Chat out of scope.
+Multiple bike bookings are out of scope.
+
+
+Bikes are GPS located.
+Client should be registered to search for a bike? -Yes
+Log In screen is the first that user sees when he open the app.
+Bike reservation is against deposite, the remainder is returned after ride completion.
+Bikes can be left on given zones (not only on docking station) inside the city
+Picture of the bike is required after the bike is returned.
+Integration with Salesforce for rental history
+If Bike is left outside designated zones the taxation continues. If bike is stationary for more than 10 mins, the notification is send to the client informing him that the rent is still active. Until bike is left in a parking zone.
+Renting the bike is with prepaid deposit.
+Analythics are in scope.
+Docking stations will be included for the first year. Analythics will be used to see the preferences of the user using docing stations or parking zones.
+After bike rent is completed the total is deducted automatically from the clients payment method.
+Client should be registered user on 14+ years.
+The time is calculated from unclocking the bike until returning the bike. Buttunes rent a bike, return a bike. And the bike is unlocked and locked.
+If bike is broken (sginal recived) it is repired or replaced.
+Integration with google maps.
+The new app should be able to integrate with all legacy systems.
+Supported Payment systems: Debit/Credit card, Paypal, Googla Pay, Apple pay, POS Payment ad Docking Station and  Cash Payment at docking station.
+Real trafic information ot of scope
+Google Maps is external system.
+Client is responsible for stoping the rent.
+App features: interactive map, QR scan option, Help, upload bike picure, customer service, management of payment methods.
+Anti trust customers are banned from the system.
+During incident while renting a bike the client should notify the customer service.
+Third party identity provider acepted (Google, Facebook)
+First the deposite is charged then the diference is returned or charget again.
+The app should load for a 1 second.
+Registration info, email, password, birthdate, address, ID of Card, Names.
+Biometric authentication is optional.
+Personal data is validated after scanninc of Identity Card
+Reserving the Bike for the first 15 min is free?
+ 
+
+
+
+Found a Bike --> Scan the QR Code --> App is Downloaded if missing --> Create / Log In into the account --> Update if new account the personal data / ID Card Number, Birthdate, Address, payment methods --> Return to login if it was not logged in --> Scan QR Code --> Bike details page, Price, Location, Rent A Bike --> Can choose destination --> After Bike is rented the deposide is 'taken/blocked' --> During rent the total is changed based on time/distance --> Going to parking zone --> stop the rent --> Make picture of the bike --> actual amount is deducted from the payment method of the client --> Bike is locked
+
+Fast track
+Log In --> Scan QR --> Rent A Bike
+
+
+More Info (Lime)
+
+BPMN and Use Case only functional requirements
+
+
+
+
+

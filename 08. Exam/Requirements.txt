@@ -1,0 +1,63 @@
+Updated Requirements
+ID	Description	Type	Priority
+REQ-01	User Registration and Authentication	Functional	Must
+REQ-02	Bike Selection and Unlocking	Functional	Must
+REQ-03	Route Planning and Navigation	Functional	Must
+REQ-04	Flexible Bike Return	Functional	Must
+REQ-05	Cashless Payments	Functional	Must
+REQ-06	Real-Time Data Updates	Functional	Must
+REQ-07	Integration with External Systems (Google Maps, Payment providers)	Functional	Must
+REQ-08	Data Validation	Non-Functional	Must
+REQ-09	Performance Optimization	Non-Functional	Should
+REQ-10	QR Code Scanning: Allow users to scan QR codes for bike interaction	Functional	Must
+REQ-11	Security Measures	Non-Functional	Must
+REQ-12	Bike Details Display: Show bike details, price, and location	Functional	Must
+REQ-13	Rental Process: Guide users through bike rental process	Functional	Must
+REQ-14	Payment Handling: Process payments for bike rentals	Functional	Must
+REQ-15	Bike Locking: Enable users to reserve bike	Functional	Should
+REQ-16	Push Notifications	Functional	Should
+REQ-17	User Support	Functional	Should
+REQ-18	User Profile Management: Update user details	Functional	Should
+REQ-19	Notifications	Functional	Should
+REQ-20	Personal Data Update: Allow users to update personal information	Functional	Should
+REQ-21	Data Analytics Dashboard: Provide admin dashboard for user and ride stats	Functional	Could
+REQ-22	Privacy Settings: Manage privacy preferences and data sharing	Functional	Could
+REQ-23	Bike Availability Heatmap: Display high bike availability areas	Functional	Could
+REQ-24	Display Bike Parking Zones and Docking Station locations	Functional	Must
+REQ-25	Trip History: View history of previous rides	Functional	Would
+REQ-26	Accessibility Features: Ensure app accessibility	Non-Functional	Would
+REQ-27	Offline Mode (Optional)	Functional	Would
+REQ-28	Biometric Authentication	Functional	Would
+REQ-29	Gamification Features (Out of Scope)	Functional	Out of Scope
+REQ-30	Chat Bot (Out of Scope)	Functional	Out of Scope
+REQ-31	Customer Service Chat (Out of Scope)	Functional	Out of Scope
+REQ-32	Multiple Bike Bookings (Out of Scope)	Functional	Out of Scope
+REQ-33	Bikes can be left out of docking station	Functional	Must
+REQ-34	Bikes can be reserved for 15 min	Functional	Must
+REQ-35	Invoices sent to client email	Functional	Must
+REQ-36	GPS located bikes	Functional	Must
+REQ-37	Client must be registered to search for a bike	Functional	Must
+REQ-38	Log In screen is the first screen on app launch	Functional	Must
+REQ-39	Bike reservation requires deposit, remainder returned after ride completion	Functional	Must
+REQ-40	Bikes can be left in designated zones within the city	Functional	Must
+REQ-41	Picture of the bike required after return	Functional	Must
+REQ-42	Integration with Salesforce for rental history	Functional	Must
+REQ-43	Taxation continues if bike is left outside designated zones	Functional	Must
+REQ-44	Notification sent if bike is stationary for more than 10 mins	Functional	Must
+REQ-45	Renting the bike is with prepaid deposit	Functional	Must
+REQ-46	Client should be a registered user and at least 14 years old	Non-Functional	Must
+REQ-47	Time calculation from bike unlocking to return, with "Rent" and "Return" buttons	Functional	Must
+REQ-48	Bike repair/replacement process for broken bikes	Functional	Must
+REQ-49	Integration with Google Maps	Functional	Must
+REQ-50	Integration with Legacy Systems	Functional	Must
+REQ-51	Supported Payment Systems: Debit/Credit card, Paypal, Google Pay, Apple Pay, POS Payment, Cash Payment	Functional	Must
+REQ-52	Google Maps integration is an external system	Non-Functional	Must
+REQ-53	Client responsible for stopping the rent	Functional	Must
+REQ-54	App features: Interactive map, QR scan option, Help, Upload bike picture, Customer service, Management of payment methods	Functional	Must
+REQ-55	Anti-trust customers are banned from the system	Functional	Must
+REQ-56	Incident notification process during bike rental	Functional	Must
+REQ-57	Third-party identity provider accepted (Google, Facebook)	Functional	Must
+REQ-58	Deposit charged first, then remainder returned or charged	Functional	Must
+REQ-59	App should load within 1 second	Non-Functional	Must
+REQ-60	Personal data validation after scanning of Identity Card	Non-Functional	Must
+REQ-61	Reserving the bike for the first 15 minutes is free	Functional	Must
