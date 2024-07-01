@@ -1,0 +1,31 @@
+@startuml
+left to right direction
+actor "Moile User" as mu
+actor "Registered User" as ru
+actor "New User" as nu
+
+rectangle BikeRentalSystem {
+  nu -- (Register Account)
+  (Register Account) .> (Update Profile Information) : includes
+  ru -- (Log In)
+  (Log In) .> (Biometric authentication) : extends
+  mu -- (Rent A Bike)
+  (Rent A Bike) .> (Scan QR Code) : extends
+  (Rent A Bike) .> (Select Bike) : extends
+  (Rent A Bike) -- (Choose destination)
+  (Choose destination) .> (Display Docking Stations) : extends
+  (Choose destination) .> (Display Bike Parking Zones) : extends
+  (Choose destination) -- (Return Bike)
+  (Return Bike) .> (Lock the Bike) : includes
+  (Return Bike) .> (Make Picture) : includes
+  (Return Bike) .> (Make Payment) : includes
+  mu -- (Receive Push Notifications)
+  mu -- (View Trip History)
+}
+
+nu --|> mu: Register
+ru --|> mu: Log in
+
+(Choose destination) -- GoogleMaps
+(Make Payment) -- PaymentProccesor
+@enduml
